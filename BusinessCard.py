@@ -5,7 +5,7 @@
 
 
 # !pip install easyocr
-# !pip install qrcode
+!pip install qrcode
 
 
 # In[18]:
